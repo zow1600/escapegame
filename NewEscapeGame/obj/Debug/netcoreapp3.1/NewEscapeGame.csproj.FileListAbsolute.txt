@@ -1,0 +1,14 @@
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\bin\Debug\netcoreapp3.1\NewEscapeGame.exe
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\bin\Debug\netcoreapp3.1\NewEscapeGame.deps.json
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\bin\Debug\netcoreapp3.1\NewEscapeGame.runtimeconfig.json
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\bin\Debug\netcoreapp3.1\NewEscapeGame.runtimeconfig.dev.json
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\bin\Debug\netcoreapp3.1\NewEscapeGame.dll
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\bin\Debug\netcoreapp3.1\NewEscapeGame.pdb
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\obj\Debug\netcoreapp3.1\NewEscapeGame.csprojAssemblyReference.cache
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\obj\Debug\netcoreapp3.1\NewEscapeGame.csproj.ResolveComReference.cache
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\obj\Debug\netcoreapp3.1\NewEscapeGame.AssemblyInfoInputs.cache
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\obj\Debug\netcoreapp3.1\NewEscapeGame.AssemblyInfo.cs
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\obj\Debug\netcoreapp3.1\NewEscapeGame.dll
+P:\OPIM 3320\EscapeGame1\EscapeGame1\NewEscapeGame\NewEscapeGame\obj\Debug\netcoreapp3.1\NewEscapeGame.pdb
